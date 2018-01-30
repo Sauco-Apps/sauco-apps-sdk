@@ -1,6 +1,6 @@
-# Lisk Apps SDK
+# Sauco Apps SDK
 
-The official SDK for building blockchain apps on the [Lisk](https://lisk.io) platform.
+The official SDK for building blockchain apps on the [Sauco](https://) platform.
 
 ## Directory Structure
 
