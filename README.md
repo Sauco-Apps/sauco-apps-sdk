@@ -25,6 +25,7 @@ Full documentation is available [here](https://github.com/LiskHQ/lisk-dapps-docs
 
 The MIT License (MIT)
 
+Copyright (c) 2018 Sauco
 Copyright (c) 2016 Lisk  
 Copyright (c) 2015 Crypti
 
